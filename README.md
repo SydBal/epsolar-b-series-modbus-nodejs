@@ -3,4 +3,6 @@ A simple tool for gathering data from and inputting data into the EP Solar Charg
 
 Uses [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport).
 
+The serial communication parameters: 115200bps baudrate, 8 data bits, 1 stop bit and no parity,no handshaking.
+
 Will hopefully become a npm library for easy download and use (and glory).
